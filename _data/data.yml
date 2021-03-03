@@ -83,11 +83,12 @@ education:
       degree: Bachelor
       details: |
         Experience in this university:
-        + First
-        + Second
-        
-        ...
-        
+        + Robotics
+        + Control Systems
+        + Logic programming
+        + Sensors & Actuators
+        + Automation
+                
 experiences:
   display: true
   title: Experiences
@@ -118,12 +119,17 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
+    These are all the articles I wrote.
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
+    - title: Probabilistic localization and mapping of mobile robots in indoor environments with a single laser range finder.
+      authors: Smith W. Arauco Canchumuni and Marco Antonio Meggiolaro
+      conference: 22nd International Congress of Mechanical Engineering (COBEM), 2013
+      link: https://www.abcm.org.br/upload/files/PI_II_07.pdf
+      
+    - title: Integration of Ensemble Data Assimilation and Deep Learning for History Matching Facies Models.
+      authors: Smith W. Arauco Canchumuni, Alexandre Anozé Emerick and Marco Aurelio Pacheco
+      conference: Offshore Technology Conference Brasil, 2017
+      link: https://onepetro.org/OTCBRASIL/proceedings-abstract/17OTCB/1-17OTCB/D011S006R005/93919  
 
 skills:
   display: true
