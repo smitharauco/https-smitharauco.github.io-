@@ -1,8 +1,7 @@
 intro:
   name: Smith Washington Arauco Canchumuni
   title: Computer Science Specialist 
-  \n ...
-
+  subtitle: ...
   avatar:
     display: true
     path: profile.jpeg
