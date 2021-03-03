@@ -57,29 +57,29 @@ education:
   items:
     - university: Pontifical Catholic University of Rio de Janeiro
       time: 2013 - 2017
-      major: Machine Learning
-      degree: Master
+      major: Decision support methods
+      degree: PhD.
       details: |
         Experience in this university:
-        + First
-        + Second
-        
-        ...
+        + Artificial Intelligence 
+        + Machine Learning
+        + Deep Learning
+        + Data Science
         
     - university: Pontifical Catholic University of Rio de Janeiro
       time: 2011 - 2013
-      major: Robotics
+      major: Mechatronics Systems
       degree: Master
       details: |
         Experience in this university:
-        + First
-        + Second
+        + Robotics
+        + Simultaneous Localization and Mapping (SLAM)
+        + Evolutionary Computation
         
-        ...
              
     - university: National University of Engineering 
       time: 2005 - 2009
-      major: Mechatronics
+      major: Mechatronics Engineering
       degree: Bachelor
       details: |
         Experience in this university:
