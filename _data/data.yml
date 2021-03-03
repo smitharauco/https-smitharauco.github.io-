@@ -121,6 +121,21 @@ publications:
   intro: |
     These are all the articles I wrote.
   items:
+    - title: Recent developments combining ensemble smoother and deep generative networks for facies history matching.
+      authors: Smith W. Arauco Canchumuni, José David Bermudez Castro, Júlia Potratz, Alexandre Anozé Emerick and Marco Aurelio Pacheco
+      conference: Computational Geosciences, 2020
+      link: https://link.springer.com/article/10.1007/s10596-020-10015-0
+      
+    - title: Large Dimension Parameterization with Convolutional Variational Autoencoder: An Application in the History Matching of Channelized Geological Facies Models.
+      authors: Júlia Potratz, Smith W. Arauco Canchumuni, José David Bermudez Castro, Alexandre Anozé Emerick and Marco Aurelio Pacheco
+      conference: 20th International Conference on Computational Science and its Applications (ICCSA), 2020
+      link: https://ieeexplore.ieee.org/document/9257505
+      
+    - title: Automatic Lithofacies Classification with t-SNE and K-Nearest Neighbors Algorithm.
+      authors: Guilherme Loriato Potratz, Smith W. Arauco Canchumuni, José David Bermudez Castro,Júlia Potratz and Marco Aurelio Pacheco
+      conference: ANUÁRIO DO INSTITUTO DE GEOCIÊNCIAS, 2020
+      link: https://revistas.ufrj.br/index.php/aigeo/article/view/35024
+      
     - title: A free web service for fast COVID-19 classification of chest X-Ray images.
       authors: Jose David Bermudez Castro, Ricardo Rei, Jose E. Ruiz, Pedro Achanccaray Diaz, Smith W. Arauco Canchumuni, Cristian Muñoz Villalobos, Felipe Borges Coelho, Leonardo Forero Mendoza and Marco Aurelio Pacheco
       conference: arXiv, 2020
