@@ -77,7 +77,18 @@ education:
         + Robotics
         + Simultaneous Localization and Mapping (SLAM)
         + Evolutionary Computation
-        
+
+    - university: Ricardo Palma University 
+      time: 2010 - 2010
+      major: Industrial Automation
+      degree: Specialization
+      details: |
+        Experience in this university:
+        + Pneumatic
+        + Electric Automation Technology
+        + Automation
+        + Programmable Logic Controller (PLC)
+        + SCADA System
              
     - university: National University of Engineering 
       time: 2005 - 2009
