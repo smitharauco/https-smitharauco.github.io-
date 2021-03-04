@@ -47,10 +47,10 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-    ...
+    Senior AI Scientist with over four years of experience, a specialist in machine learning/deep learning,  generative models, data assimilation, and inverse problems.
+    + Development Manager, Computational Intelligence Laboratory in Pontifical Catholic University of Rio de Janeiro.
+    + Professor of Computer Science, Data Science and Computer Engineering, Pontifical Catholic University of Rio de Janeiro.
+    + Senior Programmer in python, C, C++, C#, R and matlab
 
 education:
   display: true
