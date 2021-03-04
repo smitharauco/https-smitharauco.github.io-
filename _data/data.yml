@@ -48,7 +48,7 @@ profile:
   title: Profile
   details: |
     Senior AI Scientist with over four years of experience, a specialist in machine learning/deep learning,  generative models, data assimilation, and inverse problems.
-    + Development Manager, Computational Intelligence Laboratory in Pontifical Catholic University of Rio de Janeiro.
+    + Development Manager, Applied Computational Intelligence Laboratory in Pontifical Catholic University of Rio de Janeiro.
     + Professor of Computer Science, Data Science and Computer Engineering, Pontifical Catholic University of Rio de Janeiro.
     + Senior Programmer in python, C, C++, C#, R and matlab
 
@@ -129,14 +129,14 @@ experiences:
     - role: Senior Researcher 
       time: 2018.03 - Present
       company: Pontifical Catholic University of Rio de Janeiro
-      tag: Computational Intelligence Laboratory
+      tag: Applied Computational Intelligence Laboratory
       location: Brazil
       details: Development Manager 
         
     - role: PhD Researcher 
       time: 2015.07 - 2018.03
       company: Pontifical Catholic University of Rio de Janeiro
-      tag: Computational Intelligence Laboratory
+      tag: Applied Computational Intelligence Laboratory
       location: Brazil
       details:  |
         Development projects in
