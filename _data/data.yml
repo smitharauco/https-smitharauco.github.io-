@@ -123,18 +123,17 @@ education:
                 
 experiences:
   display: true
-  title: Experiences
+  title: Research Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Research Student
+      time: 2008.07 - 2009.07
+      company: CETIC, National University of Engineering
       tag:
       location: Beijing
       details: |
         Experience in this company:
         + First
         + Second
-        ...
 
 projects:
   display: true
