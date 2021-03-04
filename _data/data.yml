@@ -176,7 +176,7 @@ experiences:
         + Mobile Robotics
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -248,7 +248,7 @@ publications:
       link: https://www.abcm.org.br/upload/files/PI_II_07.pdf
       
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
@@ -258,7 +258,7 @@ skills:
     ...
     
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
