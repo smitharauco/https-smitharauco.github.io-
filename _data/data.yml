@@ -38,6 +38,8 @@ interests:
   display: true
   title: Interests
   items:
+    - item: Dog Lover
+      link:
     - item: Reading
       link:
     - item: Play Soccer
@@ -226,7 +228,7 @@ publications:
       link: https://link.springer.com/chapter/10.1007%2F978-3-030-20912-4_7
            
     - title: The use of simuation to model the dispatch of inbound contaoners in port terminals.
-      authors: Martin Guillermo Cornejo Sarmiento,Eugenio Kahn Epprecht, Fernando Luiz Cyrino Oliveira, Annibal Theophilo S. Rodrigues Junior, and Smith W. Arauco Canchumuni
+      authors: Martin Guillermo Cornejo Sarmiento, Eugenio Kahn Epprecht, Fernando Luiz Cyrino Oliveira, Annibal Theophilo S. Rodrigues Junior, and Smith W. Arauco Canchumuni
       conference: Pesquisa Operacional, 2019
       link: hhttps://doi.org/10.1590/0101-7438.2019.039.01.0155 
       
