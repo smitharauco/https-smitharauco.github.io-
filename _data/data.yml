@@ -56,6 +56,24 @@ education:
   display: true
   title: Education
   items:
+
+    - university: NVIDIA AI, Deep Learning Institute
+      time: 2019 - 2019
+      major: Fundamentals of Deep Learning for Computer Vision
+      degree: Specialization
+      details: |
+        Experience in this institute:
+        + Computer Vision
+        + Deep Learning
+
+    - university: NVIDIA AI, Deep Learning Institute 
+      time: 2019 - 2019
+      major: DLI Platform Course for Instructors
+      degree: Specialization
+      details: |
+        Experience in this institute:
+        +  Deep Learning Institute Platform
+
     - university: Pontifical Catholic University of Rio de Janeiro
       time: 2013 - 2017
       major: Decision support methods
