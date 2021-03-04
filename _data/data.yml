@@ -126,9 +126,16 @@ experiences:
   title: Research Experiences
   items:
     - role: Research Student
+      time: 2011.03 - 2013.03
+      company: Pontifical Catholic University of Rio de Janeiro
+      tag: Department of Mechanical Engineering
+      location: Brazil
+      details: MSc dissertation: Probabilistic Simultaneous Localization and Mapping of Mobile Robots in Indoor Environments with a Laser Range Finder.
+        
+    - role: Research Student
       time: 2008.07 - 2009.07
-      company: CETIC, National University of Engineering
-      tag: awf
+      company: National University of Engineering
+      tag: CETIC
       location: Perú
       details: |
         Experience in this company:
