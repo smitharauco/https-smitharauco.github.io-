@@ -128,12 +128,12 @@ experiences:
     - role: Research Student
       time: 2008.07 - 2009.07
       company: CETIC, National University of Engineering
-      tag:
+      tag: awf
       location: Perú
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Control theory 
+        + Mobile Robotics
 
 projects:
   display: true
