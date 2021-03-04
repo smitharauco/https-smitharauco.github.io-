@@ -125,6 +125,29 @@ experiences:
   display: true
   title: Research Experiences
   items:
+    - role: PhD Researcher 
+      time: 2015.07 - 2018.03
+      company: Pontifical Catholic University of Rio de Janeiro
+      tag: Computational Intelligence Laboratory
+      location: Brazil
+      details:  |
+        Development projects in
+        + Artificial Intelligence
+        + Machine Learning
+        + Deep Learning
+        + Data Science
+        + History Matching
+        + Reservoir Simulations
+        + Distributed Systems
+        + Genetics Algorithms       
+        
+    - role: PhD Student 
+      time: 2013.03 - 2017.07
+      company: Pontifical Catholic University of Rio de Janeiro
+      tag: Department of Electrical Engineering
+      location: Brazil
+      details: PhF Thesis - Hybrid Method Based into Kalman Filter and Deep Generative Model to History Matching and Uncertainty Quantification of Facies Geological Models.
+          
     - role: Research Student
       time: 2011.03 - 2013.03
       company: Pontifical Catholic University of Rio de Janeiro
@@ -135,7 +158,7 @@ experiences:
     - role: Research Student
       time: 2008.07 - 2009.07
       company: National University of Engineering
-      tag: CETIC
+      tag: CTIC
       location: Perú
       details: |
         Experience in this company:
