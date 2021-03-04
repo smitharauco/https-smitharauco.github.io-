@@ -58,7 +58,7 @@ education:
   items:
 
     - university: NVIDIA AI, Deep Learning Institute
-      time: 2019 - 2019
+      time: 2019
       major: Fundamentals of Deep Learning for Computer Vision
       degree: Specialization
       details: |
@@ -67,7 +67,7 @@ education:
         + Deep Learning
 
     - university: NVIDIA AI, Deep Learning Institute 
-      time: 2019 - 2019
+      time: 2019
       major: DLI Platform Course for Instructors
       degree: Specialization
       details: |
@@ -98,7 +98,7 @@ education:
         + Evolutionary Computation
 
     - university: Ricardo Palma University 
-      time: 2010 - 2010
+      time: 2010
       major: Industrial Automation
       degree: Specialization
       details: |
