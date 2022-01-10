@@ -192,9 +192,7 @@ publications:
   intro: |
     These are all the articles I wrote.
   items:
-    - title: Deep learning for mapping rainwater drainage networks using Remote Sensing Data.
-        authors: Júlia Potratz, Cristian Muñoz, Smith W. Arauco Canchumuni and Marco Aurelio Pacheco 
-        conference: XLII Ibero-Latin-American Congress on Computational Methods in Engineering (CILAMCE-2021), Rio de Janeiro, 2021
+    - title: Deep learning for mapping rainwater drainage networks using Remote Sensing Data
         link: https://www.researchgate.net/profile/Smith-Arauco-C/publication/356904294_Deep_learning_for_mapping_rainwater_drainage_networks_using_Remote_Sensing_Data/links/61b20d643046a72ff34addc6/Deep-learning-for-mapping-rainwater-drainage-networks-using-Remote-Sensing-Data.pdf
       
     - title: Seismic Facies Segmentation Using Atrous Convolutional-LSTM Network.
