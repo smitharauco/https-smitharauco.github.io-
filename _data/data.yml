@@ -191,20 +191,19 @@ publications:
   title: Publications
   intro: |
     These are all the articles I wrote.
-  items: 
-
+  items:
   
-   - title: Deep learning for mapping rainwater drainage networks using Remote Sensing Data
+   - title: Deep learning for mapping rainwater drainage networks using Remote Sensing Data.
       authors: Júlia Potratz, Cristian Enrique M Villalobos, Smith W. Arauco Canchumuni, Marco Aurelio Cavalcanti Pacheco
       conference: XLII Ibero-Latin-American Congress on Computational Methods in Engineering (CILAMCE-2021) | 3rd Pan American Congress on Computational Mechanics, Rio de Janeiro, 2021
       link: https://www.researchgate.net/profile/Smith-Arauco-C/publication/356904294_Deep_learning_for_mapping_rainwater_drainage_networks_using_Remote_Sensing_Data/links/61b20d643046a72ff34addc6/Deep-learning-for-mapping-rainwater-drainage-networks-using-Remote-Sensing-Data.pdf
 
-   - title: Seismic Facies Segmentation Using Atrous Convolutional-LSTM Network
+   - title: Seismic Facies Segmentation Using Atrous Convolutional-LSTM Network.
       authors: Maykol J. Campos Trinidad, Smith W. Arauco Canchumuni, Raul Queiroz Feitosa, Marco Aurelio Cavalcanti Pacheco
       conference: XLII Ibero-Latin-American Congress on Computational Methods in Engineering (CILAMCE-2021) | 3rd Pan American Congress on Computational Mechanics, Rio de Janeiro, 2021
       link: https://www.researchgate.net/profile/Smith-Arauco-C/publication/356904625_Seismic_Facies_Segmentation_Using_Atrous_Convolutional-LSTM_Network/links/61b20e1c0c4bfb675179c326/Seismic-Facies-Segmentation-Using-Atrous-Convolutional-LSTM-Network.pdf
       
-   - title: Towards a Benchmark for Sedimentary Facies Classification: Applied to the Netherlands F3 Block
+   - title: Towards a Benchmark for Sedimentary Facies Classification: Applied to the Netherlands F3 Block.
       authors: Maykol J. Campos Trinidad, Smith W. Arauco Canchumuni, Marco Aurelio Cavalcanti Pacheco
       conference: Information Management and Big Data: 7th Annual International Conference, SIMBig 2020, Lima, Peru, October 1–3, 2020, Proceedings
       link: https://link.springer.com/chapter/10.1007%2F978-3-030-76228-5_15  
