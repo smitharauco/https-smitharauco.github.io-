@@ -205,7 +205,62 @@ publications:
     - title: Towards a Benchmark for Sedimentary Facies Classification- Applied to the Netherlands F3 Block.
       authors: Maykol J. Campos Trinidad, Smith W. Arauco Canchumuni and Marco Aurelio Cavalcanti Pacheco
       conference: Information Management and Big Data, 7th Annual International Conference, SIMBig 2020, Lima, Peru, October 1–3, 2020, Proceedings
-      link: https://link.springer.com/chapter/10.1007%2F978-3-030-76228-5_15        
+      link: https://link.springer.com/chapter/10.1007%2F978-3-030-76228-5_15
+      
+   - title: Recent developments combining ensemble smoother and deep generative networks for facies history matching.
+      authors: Smith W. Arauco Canchumuni, José David Bermudez Castro, Júlia Potratz, Alexandre Anozé Emerick and Marco Aurelio Pacheco
+      conference: Computational Geosciences, 2020
+      link: https://link.springer.com/article/10.1007/s10596-020-10015-0
+  
+    - title: Large Dimension Parameterization with Convolutional Variational Autoencoder- An Application in the History Matching of Channelized Geological Facies Models.
+      authors: Júlia Potratz, Smith W. Arauco Canchumuni, José David Bermudez Castro, Alexandre Anozé Emerick and Marco Aurelio Pacheco
+      conference: 20th International Conference on Computational Science and its Applications (ICCSA), 2020
+      link: https://ieeexplore.ieee.org/document/9257505
+      
+    - title: Automatic Lithofacies Classification with t-SNE and K-Nearest Neighbors Algorithm.
+      authors: Guilherme Loriato Potratz, Smith W. Arauco Canchumuni, José David Bermudez Castro,Júlia Potratz and Marco Aurelio Pacheco
+      conference: ANUÁRIO DO INSTITUTO DE GEOCIÊNCIAS, 2020
+      link: https://revistas.ufrj.br/index.php/aigeo/article/view/35024
+      
+    - title: A free web service for fast COVID-19 classification of chest X-Ray images.
+      authors: Jose David Bermudez Castro, Ricardo Rei, Jose E. Ruiz, Pedro Achanccaray Diaz, Smith W. Arauco Canchumuni, Cristian Muñoz Villalobos, Felipe Borges Coelho, Leonardo Forero Mendoza and Marco Aurelio Pacheco
+      conference: arXiv, 2020
+      link: https://arxiv.org/abs/2009.01657
+      
+    - title: History matching geological facies models based on ensemble smoother and deep generative models.
+      authors: Smith W. Arauco Canchumuni, Alexandre Anozé Emerick and Marco Aurelio Pacheco
+      conference: Journal of Petroleum Science and Engineering, 2019
+      link: https://doi.org/10.1016/j.petrol.2019.02.037
+      
+    - title: Towards a robust parameterization for conditioning facies models using deep variational autoencoders and ensemble smoother.
+      authors: Smith W. Arauco Canchumuni, Alexandre Anozé Emerick and Marco Aurelio Pacheco
+      conference: Computers & Geosciences, 2019
+      link: https://doi.org/10.1016/j.cageo.2019.04.006
+      
+    - title: Smart Well Data Generation via Boundary-Seeking Deep Convolutional Generative Adversarial Networks.
+      authors: Allan Gurwicz, Smith W. Arauco Canchumuni and Marco Aurelio Pacheco
+      conference: Artificial Intelligence and Soft Computing, 2019
+      link: https://link.springer.com/chapter/10.1007%2F978-3-030-20912-4_7
+
+    - title: The use of simuation to model the dispatch of inbound contaoners in port terminals.
+      authors: Martin Guillermo Cornejo Sarmiento, Eugenio Kahn Epprecht, Fernando Luiz Cyrino Oliveira, Annibal Theophilo S. Rodrigues Junior, and Smith W. Arauco Canchumuni
+      conference: Pesquisa Operacional, 2019
+      link: hhttps://doi.org/10.1590/0101-7438.2019.039.01.0155 
+      
+    - title: History Matching Channelized Facies Models Using Ensemble Smoother With A Deep Learning Parameterization.
+      authors: Smith W. Arauco Canchumuni, Alexandre Anozé Emerick and Marco Aurelio Pacheco
+      conference: 16th European Conference on the Mathematics of Oil Recovery (ECMOR), 2018
+      link: https://www.earthdoc.org/content/papers/10.3997/2214-4609.201802277
+      
+    - title: Integration of Ensemble Data Assimilation and Deep Learning for History Matching Facies Models.
+      authors: Smith W. Arauco Canchumuni, Alexandre Anozé Emerick and Marco Aurelio Pacheco
+      conference: Offshore Technology Conference Brasil, 2017
+      link: https://onepetro.org/OTCBRASIL/proceedings-abstract/17OTCB/1-17OTCB/D011S006R005/93919  
+      
+    - title: Probabilistic localization and mapping of mobile robots in indoor environments with a single laser range finder.
+      authors: Smith W. Arauco Canchumuni and Marco Antonio Meggiolaro
+      conference: 22nd International Congress of Mechanical Engineering (COBEM), 2013
+      link: https://www.abcm.org.br/upload/files/PI_II_07.pdf   
 skills:
   display: false
   title: Skills
