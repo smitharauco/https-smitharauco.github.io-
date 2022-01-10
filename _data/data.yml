@@ -241,26 +241,7 @@ publications:
       authors: Allan Gurwicz, Smith W. Arauco Canchumuni and Marco Aurelio Pacheco
       conference: Artificial Intelligence and Soft Computing, 2019
       link: https://link.springer.com/chapter/10.1007%2F978-3-030-20912-4_7
-           
-    - title: The use of simuation to model the dispatch of inbound contaoners in port terminals.
-      authors: Martin Guillermo Cornejo Sarmiento, Eugenio Kahn Epprecht, Fernando Luiz Cyrino Oliveira, Annibal Theophilo S. Rodrigues Junior, and Smith W. Arauco Canchumuni
-      conference: Pesquisa Operacional, 2019
-      link: hhttps://doi.org/10.1590/0101-7438.2019.039.01.0155 
-      
-    - title: History Matching Channelized Facies Models Using Ensemble Smoother With A Deep Learning Parameterization.
-      authors: Smith W. Arauco Canchumuni, Alexandre Anozé Emerick and Marco Aurelio Pacheco
-      conference: 16th European Conference on the Mathematics of Oil Recovery (ECMOR), 2018
-      link: https://www.earthdoc.org/content/papers/10.3997/2214-4609.201802277
-      
-    - title: Integration of Ensemble Data Assimilation and Deep Learning for History Matching Facies Models.
-      authors: Smith W. Arauco Canchumuni, Alexandre Anozé Emerick and Marco Aurelio Pacheco
-      conference: Offshore Technology Conference Brasil, 2017
-      link: https://onepetro.org/OTCBRASIL/proceedings-abstract/17OTCB/1-17OTCB/D011S006R005/93919  
-      
-    - title: Probabilistic localization and mapping of mobile robots in indoor environments with a single laser range finder.
-      authors: Smith W. Arauco Canchumuni and Marco Antonio Meggiolaro
-      conference: 22nd International Congress of Mechanical Engineering (COBEM), 2013
-      link: https://www.abcm.org.br/upload/files/PI_II_07.pdf      
+
 skills:
   display: false
   title: Skills
